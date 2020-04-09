@@ -12,4 +12,7 @@ class NGrid
     
     return grid
   end
+  
+  def rerun
+  end
 end
